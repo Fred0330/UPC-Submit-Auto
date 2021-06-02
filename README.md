@@ -1,5 +1,5 @@
 # UPCSubmitAuto
-Automatically Submiting Epidemic Information for UPC students
+Automatically Submiting Epidemic Information for UPC students!
 
 ## 免责声明
 
